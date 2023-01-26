@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+    text-align: center;
+    font-size: 38px;
+    height: 100px;
+    margin-top: -20px;
+}
+
+#main {
+    font-size: 24px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+
+}
+
+.unordered-list {
+    text-align: left;
+    display: inline-block;
+}
